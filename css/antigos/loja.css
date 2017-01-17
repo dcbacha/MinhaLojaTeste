@@ -1,0 +1,9 @@
+body {
+	padding-top: 50px; /*mudei aqui e não aconteceu nada*/
+
+}
+
+.principal {
+	padding: 40px 15px;  /* aqui eu aparentemente apenas defino as dimensões da página*/
+	text-align: center;
+}
