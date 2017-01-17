@@ -75,6 +75,7 @@
  			<?php 
  			}
             ?>
+            <li><a href="contato.php">Contato</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
 
@@ -110,7 +111,7 @@
 
     
 
-
+</body>
 
 
 
