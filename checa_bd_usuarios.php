@@ -68,7 +68,7 @@ include("conecta.php");
 				  $del[$i] = $i;
 			?>
 
-			<td><button type="submit" class="btn btn-primary" name="<?=$usr[$i]?>">Alterar Dados</button>
+			<td><button type="submit" class="btn btn-primary" name="<?=$usr[$i]?>">Altera</button>
 				<button type="submit" class="btn btn-danger" name="<?=$del[$i]?>">Deleta</button>
 			</td>
 		</tr>

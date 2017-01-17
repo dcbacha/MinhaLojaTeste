@@ -17,9 +17,9 @@
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Bootstrap theme -->
-    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+    <!-- Bootstrap theme 
 
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet"> -->
 
 
 
@@ -47,12 +47,10 @@
 
 <body>
 
-
-<body>
-
     <!-- Static navbar -->
-    <nav class="navbar navbar-inverse navbar-static-top">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
+
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
@@ -101,9 +99,9 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
+    <br/>
 
 
-    </body>
 
 
     <!-- PRECISA DESSES PARA O DROPDOWN  DE MEDIA QUERY FUNCIONAR!!!! -->
@@ -111,11 +109,11 @@
     <script src="js/bootstrap.min.js"></script>
 
     
-    </body>
 
 
 
-    </html>
+
+
 	
 	<div class = "container fixed">
 		
